@@ -1,0 +1,8 @@
+[submodule "pairing-fork"]
+	path = pairing-fork
+	url = git@github.com:algorand/pairing-plus.git
+	branch = ndss-2020
+[submodule "veccom-rust"]
+	path = veccom-rust
+	url = git@github.com:algorand/pointproofs.git
+	branch = ndss-2020
